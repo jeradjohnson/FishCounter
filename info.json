@@ -1,11 +1,11 @@
 
 {
-  "name": "FishCounter",
+  "name": "FishRocketCounter",
   "version": "0.0.1",
-  "title": "FishCounter",
+  "title": "FishRocketCounter",
   "author": "ziggyo7",
   "contact": "",
   "homepage": "",
-  "description": "FishCounter",
+  "description": "FishRocketCounter",
   "dependencies": ["base >= 0.12.0"]
 }
